@@ -22,3 +22,20 @@
     width:200px;
     display: inline-block;
 }
+#kwadrat1{border: 10px solid green;
+    height: 100px;
+    width: 100px;
+   display: block
+}
+#kwadrat2{border: 10px solid lightblue;
+    height: 100px;
+    width: 100px;
+    display: block
+}
+
+#kwadrat3{border: 10px solid red;
+    height: 100px;
+    width: 100px;
+    display: block
+}
+    
