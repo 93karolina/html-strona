@@ -1,2 +1,24 @@
 #about-us { 
     background-color: rgb(252, 205, 212)}
+
+#div1{
+    background-color: lightseagreen;
+    height:100px;
+    width:100px;
+    display: inline-block;
+}
+#div2{background-color: lightskyblue;
+    height:200px;
+    width:200px;
+    display: inline-block;
+}
+#div3{background-color: lightcyan;
+    height:300px;
+    width:300px;
+    display: inline-block;
+}
+#div4{background-color: rgb(245, 245, 140);
+    height:200px;
+    width:200px;
+    display: inline-block;
+}
