@@ -38,4 +38,10 @@
     width: 100px;
     display: block
 }
-    
+#wyślij{margin-bottom: 50px;
+    margin-top: 15px;
+    background-color: violet;
+    height: auto;
+    width: auto;
+    font-style: rgb(139, 34, 34)
+    }
